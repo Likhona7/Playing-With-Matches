@@ -1,0 +1,168 @@
+.highlight {
+
+  background-color: white;
+}
+.highlightcolumn {
+  color: #0E419D;
+  background-color: #4574CB;
+}
+.highlightdiagnal {
+  color: lightgreen;
+  background-color: #E99936;
+}
+#divrow1 {
+  margin-left: 450px;
+}
+#divrow2 {
+  margin-left: 450px;
+  margin-top: -420px;
+}
+#divrow3 {
+  margin-right: 175px;
+  margin-top: 420px;
+}
+#message {
+  margin-top: -55px;
+  font-size: 25px;
+  height: 500px;
+  width: 300px;
+  background-color: rgba(254, 245, 245, 0.5);
+  ;
+  position: absolute;
+  bottom: -40px;
+  color: black;
+  /*opacity: .5*/
+}
+button {
+  float: left;
+  position: relative;
+  bottom: -100px;
+  background-color: white;
+  color: blue;
+  text-align: center;
+  padding: 15px;
+  font-size: 20px;
+  border-radius: 100%;
+  display: inline-block;
+}
+body {
+  background-position: center;
+  background-size: cover;
+  color: grey;
+  backround: url: ("https://i.ytimg.com/vi/j22DmsZEv30/maxresdefault.jpg")
+}
+h1 {
+  text-align: center;
+  color: black;
+  padding: 10px;
+}
+.number {
+  text-align: center;
+  font-size: 99px;
+  color: oldlace;
+  border: blue solid 5px;
+  width: 200px;
+  height: 200px;
+  /*background-color: rgba(253, 244, 244, 0.5);*/
+
+  -webkit-box-shadow: 0 0 8px #5700FF;
+  -moz-box-shadow: 0 0 8px #5700FF;
+  box-shadow: 0 0 8px #5700FF;
+  -moz-box-shadow: inset 0 0 10px #000000;
+  -webkit-box-shadow: inset 0 0 10px #000000;
+  box-shadow: inset 0 0 10px #000000;
+  animation: bounce 2s 10;
+}
+#div1 {
+  right: -500px;
+  /*background-color: rgba(253, 244, 244, 0.5);*/
+  /*float: left;*/
+  border-radius: 100%;
+  display: inline-block;
+  /*-moz-box-shadow: inset 0 0 10px #000000;
+  -webkit-box-shadow: inset 0 0 10px #000000;
+  box-shadow: inset 0 0 10px #00*/
+}
+#div2 {
+  border-radius: 100%;
+  display: inline-block;
+  /*background-color: rgba(253, 244, 244, 0.5);*/
+  /*float: right;*/
+  /*-moz-box-shadow: inset 0 0 10px #000000;
+  -webkit-box-shadow: inset 0 0 10px #000000;
+  box-shadow: inset 0 0 10px #000000;*/
+}
+#div3 {
+  /*background-color: rgba(253, 244, 244, 0.5);*/
+  /*float: right;*/
+  border-radius: 100%;
+  display: inline-block;
+  /*-moz-box-shadow: inset 0 0 10px #000000;
+  -webkit-box-shadow: inset 0 0 10px #000000;
+  box-shadow: inset 0 0 10px #000000;*/
+}
+#div4 {
+  /*background-color: rgba(253, 244, 244, 0.5);*/
+  /*float: right;*/
+  bottom: -420px;
+  /*right: -630px;*/
+  position: relative;
+  border-radius: 100%;
+  display: inline-block;
+  /*-moz-box-shadow: inset 0 0 10px #000000;
+  -webkit-box-shadow: inset 0 0 10px #000000;
+  box-shadow: inset 0 0 10px #000000;*/
+}
+#div5 {
+  /*background-color: rgba(253, 244, 244, 0.5);*/
+  /*float: right;*/
+  position: relative;
+  bottom: -420px;
+  /*right: -630px;*/
+  border-radius: 100%;
+  display: inline-block;
+  /*-moz-box-shadow: inset 0 0 10px #000000;
+  -webkit-box-shadow: inset 0 0 10px #000000;
+  box-shadow: inset 0 0 10px #000000;*/
+}
+#div6 {
+  /*background-color: rgba(253, 244, 244, 0.5);*/
+  /*float: right;*/
+  position: relative;
+  bottom: -420px;
+  /*right: -630px;*/
+  border-radius: 100%;
+  display: inline-block;
+  /*-moz-box-shadow: inset 0 0 10px #000000;
+  -webkit-box-shadow: inset 0 0 10px #000000;
+  box-shadow: inset 0 0 10px #000000;*/
+}
+#div7 {
+  /*background-color: rgba(253, 244, 244, 0.5);*/
+  float: right;
+  position: relative;
+  bottom: -100;
+  border-radius: 100%;
+  display: inline-block;
+  /*-moz-box-shadow: inset 0 0 10px #000000;
+  -webkit-box-shadow: inset 0 0 10px #000000;
+  box-shadow: inset 0 0 10px #000000;*/
+}
+#div8 {
+  /*background-color: rgba(253, 244, 244, 0.5);*/
+  float: right;
+  border-radius: 100%;
+  display: inline-block;
+  /*-moz-box-shadow: inset 0 0 10px #000000;
+  -webkit-box-shadow: inset 0 0 10px #000000;
+  box-shadow: inset 0 0 10px #000000;*/
+}
+#div9 {
+  /*background-color: rgba(253, 244, 244, 0.5);*/
+  float: right;
+  border-radius: 100%;
+  display: inline-block;
+  /*-moz-box-shadow: inset 0 0 10px #000000;
+  -webkit-box-shadow: inset 0 0 10px #000000;
+  box-shadow: inset 0 0 10px #000000;*/
+}
