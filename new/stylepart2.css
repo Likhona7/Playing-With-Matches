@@ -1,0 +1,63 @@
+#row1{
+  margin-bottom: 20px;
+  bottom: -100px;
+}
+#row2{
+
+}
+
+
+
+.highlight{
+  /*color: yellow;*/
+  background-color: green;
+}
+.highlightColumn{
+background-color: red;
+
+}
+.highlightDiagonal{
+background-color: yellow;
+
+}
+
+.number {
+  text-align: center;
+  font-size: 99px;
+  color: black;
+  border: blue solid 5px;
+  width: 200px;
+  height: 200px;
+  /*position:relative;*/
+  left: -10px;
+  /*background-color: rgba(253, 244, 244, 0.5);*/
+  float:left;
+  -webkit-box-shadow: 0 0 8px #5700FF;
+  -moz-box-shadow: 0 0 8px #5700FF;
+  box-shadow: 0 0 8px #5700FF;
+  -moz-box-shadow: inset 0 0 10px #000000;
+  -webkit-box-shadow: inset 0 0 10px #000000;
+  box-shadow: inset 0 0 10px #000000;
+  animation: bounce 2s 10;
+}
+
+button {
+  margin-right: 500px;
+  float: right;
+  border-left: -400px;
+  bottom: 900px;
+  margin-bottom: 500px;
+}
+
+
+/*#div1 {
+  color: black;
+  right: -500px;
+  /*background-color: rgba(253, 244, 244, 0.5);*/
+  /*float: left;*/
+  /*border-radius: 100%;
+  display: inline-block;*/
+  /*-moz-box-shadow: inset 0 0 10px #000000;
+  -webkit-box-shadow: inset 0 0 10px #000000;
+  box-shadow: inset 0 0 10px #00*/
+}*/
