@@ -5,6 +5,22 @@
 #row2{
 
 }
+#message{
+  margin-top: -500px;
+  font-size: 25px;
+  height: 500px;
+  width: 300px;
+  background-color: rgba(254, 245, 245, 0.5);
+
+  bottom: -40px;
+  color: black;
+  opacity: .5;
+  float:right;
+
+
+
+
+}
 
 
 
@@ -22,10 +38,12 @@ background-color: yellow;
 }
 
 .number {
+
+  transform:rotateX(left);
   text-align: center;
   font-size: 99px;
-  color: black;
-  border: blue solid 5px;
+  color: lightgreen;
+  border:#00FF00 solid 5px;
   width: 200px;
   height: 200px;
   /*position:relative;*/
